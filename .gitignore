@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Generated binaries directory
+out/
+
+# Intellij Idea files directory
+.idea/
+
 # Log file
 *.log
 
